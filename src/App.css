@@ -1,0 +1,63 @@
+.App {
+  text-align: center;
+  min-height: 100vh;
+}
+
+.MuiPaper-root {
+  width: 600px;
+}
+
+.student-form {
+  display: grid;
+}
+
+.label-text {
+  margin: 10px 0px 10px 0px !important;
+}
+
+.delete-btn {
+  margin-right: 15px !important;
+}
+
+#customized-dialog-title {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.MuiTablePagination-root {
+  display: flex;
+  justify-content: center;
+}
+
+.MuiToolbar-root {
+  text-align: center !important;
+  align-items: baseline !important;
+}
+
+.location {
+  height: 39px;
+}
+
+.MuiList-root {
+  display: grid;
+}
+
+.MuiFormHelperText-root {
+  color: red !important;
+  margin-left: 0 !important;
+}
+
+.save-form-control {
+  align-items: center;
+}
+
+.save-btn {
+  height: 30px;
+  width: 30px;
+  margin-top: 10px !important;
+}
+
+.button-spacing {
+  margin-right: 20px !important;
+}
